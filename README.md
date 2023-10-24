@@ -1,5 +1,3 @@
-- 👋 Hi, my name is Anay Moitra
-- 👀 Interested in Computational Fluid Dynamics, Trajectory/Design Optimization, Quantitative Finance
-- 🌱 Majoring in Aerospace Engineering with a minor in Computer Science and Mathematics
+- 👋 Anay Moitra
+- 🌱 Majoring in Aerospace Engineering and Mathematics with a minor in Computer Science
 - 📫 Reach me at linkedin (https://www.linkedin.com/in/anaymoitra/)
-
