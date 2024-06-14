@@ -1,3 +1,4 @@
 - 👋 Anay Moitra
-- 🌱 Majoring in Aerospace Engineering and Computer Science
+- 🌱 Majoring in Aerospace Engineering
+- 🖩 Computer Science, Applied Mathematics Minor
 - 📫 Reach me at linkedin (https://www.linkedin.com/in/anaymoitra/)
